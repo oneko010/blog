@@ -1,0 +1,4 @@
+[submodule "onekosay/public"]
+	path = onekosay/public
+	url = git@github-oneko010:oneko010/oneko010.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'https://oneko010.github.io/'
+languageCode = 'en-us'
+title = 'Oneko Say'
+theme='hugo-ink'
